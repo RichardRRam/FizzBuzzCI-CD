@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{08092FD9-B619-4480-9BE1-178D6900933C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{79303FB5-2955-463D-98D9-CF70922976F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzTest", "FizzTest\FizzTest.csproj", "{E2E3E3C4-EDB5-472F-BEFF-606F082B1234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08092FD9-B619-4480-9BE1-178D6900933C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08092FD9-B619-4480-9BE1-178D6900933C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08092FD9-B619-4480-9BE1-178D6900933C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08092FD9-B619-4480-9BE1-178D6900933C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79303FB5-2955-463D-98D9-CF70922976F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79303FB5-2955-463D-98D9-CF70922976F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79303FB5-2955-463D-98D9-CF70922976F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79303FB5-2955-463D-98D9-CF70922976F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2E3E3C4-EDB5-472F-BEFF-606F082B1234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E3E3C4-EDB5-472F-BEFF-606F082B1234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E3E3C4-EDB5-472F-BEFF-606F082B1234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E3E3C4-EDB5-472F-BEFF-606F082B1234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F32FA6A9-1EC2-4780-8C21-8B1BD394087A}
+	EndGlobalSection
+EndGlobal
